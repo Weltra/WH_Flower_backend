@@ -1,3 +1,4 @@
 /.idea/
 /Web_env/
 /__pycache__/
+/sql_app.db/
