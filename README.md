@@ -136,7 +136,7 @@ xxx@xxxx
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/weltme/backend/LICENSE)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE]([https://github.com/weltme/backend/LICENSE](https://github.com/weltme/backend/blob/main/LICENSE))
 
 ### 鸣谢
 
