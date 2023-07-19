@@ -136,7 +136,7 @@ xxx@xxxx
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/weltme/backend/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/weltme/backend/LICENSE)
 
 ### 鸣谢
 
@@ -146,23 +146,3 @@ xxx@xxxx
 - [GitHub Pages](https://pages.github.com)
 - [Animate.css](https://daneden.github.io/animate.css)
 - [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
-
-<!-- links -->
-
-```
-
-```
-
-[your-project-path]: weltme/backend
-[contributors-shield]: https://img.shields.io/github/contributors/weltme/backend.svg?style=flat-square
-[contributors-url]: https://github.com/weltme/backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/weltme/backend.svg?style=flat-square
-[forks-url]: https://github.com/weltme/backend/network/members
-[stars-shield]: https://img.shields.io/github/stars/weltme/backend.svg?style=flat-square
-[stars-url]: https://github.com/weltme/backend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/weltme/backend.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/weltme/backend.svg
-[license-shield]: https://img.shields.io/github/license/weltme/backend.svg?style=flat-square
-[license-url]: https://github.com/weltme/backend/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
