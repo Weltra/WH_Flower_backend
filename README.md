@@ -1,19 +1,4 @@
 # “江城寻花”赏花游览系统后端部分
-<<<<<<< HEAD
-=======
-
-ProjectName and Description
-
-<!-- PROJECT SHIELDS -->
-
-[Contributors][contributors-url]
-[Forks][forks-url]
-[Stargazers][stars-url]
-[Issues][issues-url]
-[MIT License][license-url]
-[LinkedIn][linkedin-url]
-
-<!-- PROJECT LOGO -->
 
 <br />
 
@@ -37,26 +22,23 @@ ProjectName and Description
   </p>
 </p>
 
- 本篇README.md面向开发者
-
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
-- [鸣谢](#鸣谢)
+- [“江城寻花”赏花游览系统后端部分](#江城寻花赏花游览系统后端部分)
+  - [目录](#目录)
+    - [上手指南](#上手指南)
+          - [开发前的配置要求](#开发前的配置要求)
+          - [**安装步骤**](#安装步骤)
+    - [文件目录说明](#文件目录说明)
+    - [开发的架构](#开发的架构)
+    - [部署](#部署)
+    - [使用到的框架](#使用到的框架)
+    - [版本控制](#版本控制)
+    - [作者](#作者)
+    - [版权说明](#版权说明)
+    - [鸣谢](#鸣谢)
 
 ### 上手指南
-
-请将所有链接中的“weltme/backend”改为“your_github_name/your_repository”
 
 ###### 开发前的配置要求
 
@@ -105,24 +87,8 @@ filetree
 暂无
 
 ### 使用到的框架
+<script src="https://cdn.jsdelivr.net/npm/cardlink"></script>
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
-
-### 贡献者
-
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
-
-#### 如何参与开源项目
-
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### 版本控制
 
@@ -134,18 +100,8 @@ xxx@xxxx
 
 知乎:xxxx  &ensp; qq:xxxxxx
 
- *您也可以在贡献者名单中参看所有参与该项目的开发者。*
-
 ### 版权说明
 
 该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/weltme/backend/blob/main/LICENSE)
 
 ### 鸣谢
-
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
->>>>>>> 4b0a40b5e95fb511cffb753b72680ea27303f024
