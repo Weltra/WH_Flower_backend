@@ -1,6 +1,7 @@
 # “江城寻花”赏花游览系统后端部分
 
-<br />
+<<<<<<< HEAD
+`<br />`
 
 <p align="center">
   <a href="https://github.com/weltme/backend/">
@@ -27,8 +28,8 @@
 - [“江城寻花”赏花游览系统后端部分](#江城寻花赏花游览系统后端部分)
   - [目录](#目录)
     - [上手指南](#上手指南)
-          - [开发前的配置要求](#开发前的配置要求)
-          - [**安装步骤**](#安装步骤)
+      - [开发前的配置要求](#开发前的配置要求)
+      - [**安装步骤**](#安装步骤)
     - [文件目录说明](#文件目录说明)
     - [开发的架构](#开发的架构)
     - [部署](#部署)
@@ -87,8 +88,8 @@ filetree
 暂无
 
 ### 使用到的框架
-<script src="https://cdn.jsdelivr.net/npm/cardlink"></script>
 
+<script src="https://cdn.jsdelivr.net/npm/cardlink"></script>
 
 ### 版本控制
 
@@ -105,3 +106,16 @@ xxx@xxxx
 该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/weltme/backend/blob/main/LICENSE)
 
 ### 鸣谢
+
+=======
+VUE+FastAPI开发的武汉市赏花游览推荐系统`<br/>`
+
+[前台](https://github.com/weltme/WH_Flower_frontend)|[管理](https://github.com/weltme/WH_flower_management)|[后端API](https://github.com/weltme/WH_Flower_backend)
+
+>>>>>>> 6fd029c3e08c76cc8d59e57f8f317cbc145ebf92
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
